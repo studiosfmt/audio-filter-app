@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+venv/
+.env
+.git
+.gitignore
+test_filters.py
+*.wav
+*.mp3
+brain/
+task.md
+implementation_plan.md
+walkthrough.md

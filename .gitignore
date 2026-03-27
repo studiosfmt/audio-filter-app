@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.streamlit/
+! .streamlit/config.toml
+*.wav
+*.mp3
+.DS_Store
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+.idea/
+brain/
+task.md
+implementation_plan.md
+walkthrough.md
